@@ -21,9 +21,8 @@
     "nodemon": "^3.1.10"
   },
   "engines": {
-    "node": ">=16.0.0"
+    "node": "16.20.0"
   },
   "keywords": ["recipe", "api", "express", "mongodb", "mern"],
-  "author": "Your Name",
-  "license": "MIT"
+  "author": "exceljake"
 }

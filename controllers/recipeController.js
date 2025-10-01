@@ -1,4 +1,4 @@
-const Recipe = require('../models/Recipe');
+const Recipe = require('../models/recipe');
 const { validationResult } = require('express-validator');
 
 // @desc    Get all recipes
